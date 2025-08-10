@@ -19,7 +19,7 @@ B.Tech (CSE – AI & ML) final-year student at College of Engineering Kottarakka
   Repo: [WebSum](https://github.com/iamNebu/WebSum)
 
 ## Certifications
-- NPTEL Online Certification — Programming in Modern C++
+- [NPTEL Online Certification — Programming in Modern C++](https://drive.google.com/file/d/13sHOiXsuGt-hspotz7RadKYGtxwMS4v4/view)
 
 ## Get in touch
-- LinkedIn: https://www.linkedin.com/in/nebu-placid
+- LinkedIn: [Nebu placid](https://www.linkedin.com/in/nebu-placid)
