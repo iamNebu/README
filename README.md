@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @iamNebu
-- 👀 I’m interested in programming, AI and ML , Computer Vision and Image processing.
-- 🌱 I’m currently learning TensorFlow
-- 💞️ I’m looking to collaborate on AI and ML and Deep Learning projects.
-- 📫 reach me on linkedin www.linkedin.com/in/nebu-placid
+# Hi, I'm Nebu Placid 👋
 
-- ⚡ Fun fact: I,m pursuing my BTech CSE(AI and ML) from College Of Engineering Kottarakkara.
+B.Tech (CSE – AI & ML) final-year student at College of Engineering Kottarakkara. I’m passionate about Artificial Intelligence, Software Development, and Computer Vision/Image Processing. I’m dedicated, hardworking, and eager to contribute to impactful projects, internships, and research collaborations.
 
-<!---
-iamNebu/iamNebu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Open to: Internships, research programs, and team collaborations
+- Focus areas: AI/ML, Software Engineering, Computer Vision, Image Processing
+
+## Skills
+- Languages/Tools: Python
+- Libraries/Frameworks: Pandas, NumPy, scikit-learn, TensorFlow, Streamlit
+- AI tooling: Ollama 3
+
+## Projects
+- WebSum — Advanced open-source website summary generator  
+  Built with Python and Streamlit (GUI), powered by Ollama 3 for LLM-driven summarization.  
+  - Fetches and processes web content
+  - Generates focused, readable summaries
+  - Streamlit-based interactive UI  
+  Repo: [WebSum](https://github.com/iamNebu/WebSum)
+
+## Certifications
+- NPTEL Online Certification — Programming in Modern C++
+
+## Get in touch
+- LinkedIn: https://www.linkedin.com/in/nebu-placid
